@@ -1,0 +1,4 @@
+git+https://github.com/streamlit/streamlit#egg=streamlit
+git+https://github.com/openai/openai-python#egg=openai
+git+https://github.com/theskumar/python-dotenv#egg=python-dotenv
+git+https://github.com/python/asyncio#egg=asyncio
